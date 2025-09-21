@@ -1,0 +1,27 @@
+{
+  "name": "tarea_1_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/ejercicio1.ts",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DMadrid03/IS906-tarea_1_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DMadrid03/IS906-tarea_1_1/issues"
+  },
+  "homepage": "https://github.com/DMadrid03/IS906-tarea_1_1#readme",
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
